@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abhijit saha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijit-542&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit-542" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijit-542" alt="abhijit-542" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://abhijit-saha.netlify.app/](https://abhijit-saha.netlify.app/)
 
 - 📫 How to reach me **work.abhijitsaha@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17--t4vhjAE4OAYORYQAAtb9_Qq96O-ic/view?usp=sharing](https://drive.google.com/file/d/17--t4vhjAE4OAYORYQAAtb9_Qq96O-ic/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/17--t4vhjAE4OAYORYQAAtb9_Qq96O-ic/view?usp=sharing](https://drive.google.com/file/d/17--t4vhjAE4OAYORYQAAtb9_Qq96O-ic/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
