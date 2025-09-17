@@ -4,7 +4,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://abhijit-saha.netlify.app/](https://abhijitsaha.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://abhijitsaha.vercel.app/]
 
 - 📫 How to reach me **work.abhijitsaha@gmail.com**
 
