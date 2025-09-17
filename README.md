@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **work.abhijitsaha@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/17--t4vhjAE4OAYORYQAAtb9_Qq96O-ic/view?usp=sharing](https://drive.google.com/file/d/17--t4vhjAE4OAYORYQAAtb9_Qq96O-ic/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1ZSd3RVf1GgB9TsaTpHg8bjSNlXZoewN7/view?pli=1]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
