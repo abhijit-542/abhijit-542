@@ -1,5 +1,5 @@
 # 💫 About Me:
-building modern frontend projects using React, Next.js & Tailwind CSS to grow my portfolio. <br>
+building modern projects using React, Next.js, Tailwind CSS, better-auth to grow my portfolio. <br>
 
 
 ## 🌐 Socials:
